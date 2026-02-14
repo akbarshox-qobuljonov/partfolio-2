@@ -1,0 +1,254 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background: linear-gradient(to top, rgb(23, 23, 23), white);
+}
+.container {
+  width: 1440px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+.big-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navv {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.uul {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 15px;
+  list-style-type: none;
+  color: white;
+  align-items: center;
+  text-align: center;
+  padding-left: 0;
+}
+.ahrf {
+  color: black;
+  text-decoration-line: none;
+}
+.ahrfe {
+  color: #5e3bee;
+  text-decoration-line: none;
+}
+.spn {
+  color: #5e3bee;
+}
+.br {
+  color: #5e3bee;
+  padding: 10px 20px;
+  background-color: white;
+  border-radius: 5px;
+  border: none;
+  border: 1px solid #5e3bee;
+  margin-left: 280px;
+}
+.br:hover {
+  color: white;
+  background-color: #5e3bee;
+}
+.spn2 {
+  color: #5e3bee;
+  font-family: Roboto;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 60.67px;
+
+  letter-spacing: 0%;
+}
+.hh1 {
+  font-family: Roboto;
+  font-weight: 700px;
+  font-style: Bold;
+  font-size: 60.67px;
+  margin: 0;
+  letter-spacing: 0%;
+}
+.box2 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 750px;
+  align-items: center;
+}
+.pp {
+  margin: 0;
+}
+.big-box2 {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.container2 {
+  width: 1440px;
+  padding: 20px 20px;
+  margin: 0 auto;
+}
+.box3 {
+  border-radius: 10px;
+  width: 400px;
+}
+.box {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.btn {
+  color: white;
+  background-color: #5e3bee;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+}
+.btn:hover {
+  color: #5e3bee;
+  padding: 10px 20px;
+  background-color: white;
+  border-radius: 5px;
+  border: none;
+  border: 1px solid #5e3bee;
+}
+.big-box3 {
+  margin-top: 100px;
+}
+.mini-box2 {
+  width: 300px;
+  opacity: 1px;
+  gap: 32px;
+  border-radius: 10.67px;
+  border-bottom-width: 4px;
+  padding: 32px;
+  background-color: white;
+}
+.box5 {
+  display: flex;
+  gap: 30px;
+}
+.big-box4 {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-top: 100px;
+  gap: 100px;
+  justify-content: center;
+}
+.box69 {
+  width: 500px;
+  align-items: center;
+  margin-top: 120px;
+}
+.hh2 {
+  margin: 0px;
+}
+.ppp {
+  margin: 0px;
+}
+.hh2 {
+  margin: 0px;
+}
+.bitn {
+  width: 251.6666717529297;
+  height: 74.66667175292969;
+  background: #e62872;
+
+  opacity: 1;
+  padding-top: 13.33px;
+  padding-right: 21.33px;
+  padding-bottom: 13.33px;
+  padding-left: 21.33px;
+  gap: 16px;
+  border-radius: 10.67px;
+  border: none;
+}
+.big-box5 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100px;
+}
+.big {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 10px;
+  margin-top: 100px;
+}
+.min {
+  background-color: white;
+  width: 400px;
+  padding: 10px 10px;
+}
+.box100 {
+  margin-top: 100px;
+  color: white;
+}
+.hh11 {
+  font-family: Roboto;
+  font-style: Bold;
+  font-size: 60.67px;
+  margin: 0;
+}
+.big-box67 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding: 0 100px;
+}
+.guruhdosh {
+  width: 300px;
+  background-color: white;
+  color: #5e3bee;
+  box-shadow: #5e3bee;
+}
+.guruhdosh:hover {
+  box-shadow: #5e3bee;
+}
+.normal-box {
+  text-align: center;
+  color: white;
+  margin-top: 100px;
+}
+.normal-box2 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: center;
+}
+.inp {
+  width: 496px;
+  height: 50px;
+  opacity: 1px;
+  border-radius: 8px;
+  border-width: 1.33px;
+  padding: 16px;
+  border: 3px solid #5e3bee;
+}
+.inpo {
+  width: 1024px;
+  height: 50px;
+  border-radius: 8px;
+  border: 3px solid #5e3bee;
+}
+.inpi {
+  width: 1024px;
+  height: 240px;
+  opacity: 1px;
+  border-radius: 8px;
+  border-width: 1.33px;
+  padding: 16px;
+  border: 3px solid #5e3bee;
+}
+.foot {
+  display: flex;
+  justify-content: space-between;
+}
+footer {
+  background-color: white;
+  align-items: center;
+}
+.vectorr {
+  align-items: center;
+  margin-top: 15px;
+}
