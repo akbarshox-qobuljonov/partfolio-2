@@ -193,17 +193,28 @@ body {
 .big-box67 {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
   gap: 30px;
   padding: 0 100px;
 }
 .guruhdosh {
-  width: 300px;
+  width: 350px;
   background-color: white;
   color: #5e3bee;
   box-shadow: #5e3bee;
+  padding: 20px;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  border-radius: 16px;
+  box-shadow: 3px 5px 16px #2e2e2e;
+}
+
+.guruhdosh img {
+  width: 100%;
+  border-radius: 20px;
 }
 .guruhdosh:hover {
-  box-shadow: #5e3bee;
+  transform: scale(1.09) !important;
 }
 .normal-box {
   text-align: center;
