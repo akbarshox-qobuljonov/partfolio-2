@@ -157,7 +157,7 @@ body {
   width: 251.6666717529297;
   height: 74.66667175292969;
   background: #e62872;
-
+  color: whitesmoke;
   opacity: 1;
   padding-top: 13.33px;
   padding-right: 21.33px;
@@ -166,6 +166,10 @@ body {
   gap: 16px;
   border-radius: 10.67px;
   border: none;
+}
+.bitn:hover {
+  background-color: #5e3bee;
+  color: white;
 }
 .big-box5 {
   display: flex;
